@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tracybannon
 - 👀 I’m interested in software archtiecture, DevOps, DevSecOps, Cloud Native, Data Virtualization, integerated data environments, value streams, metrics that matters, distributed data patterns, AIOps, xOps. CI/CD, test data management, helping folks to upskill, and community building!
-- 🌱 I’m currently learning tons aboput ethical hacking so I can help my clients, sponsors, and my teams to build systainable security software and software intensive systems.  I spend a ton of time focused on providing experience based #StraightTalk for government. 
+- 🌱 I’m currently learning tons about ethical hacking so I can help my clients, sponsors, and my teams to build systainable security software and software intensive systems.  I spend a ton of time focused on providing experience based #StraightTalk for government. 
 - 💞️ I’m looking to collaborate on software archtiecture, design patterns, cloud native, and building community! 
 - 📫 How to reach me tracybannon@gmail.com, LinkedIn: https://www.linkedin.com/in/tracylbannon/  or schedule time to talk with me herer: https://calendly.com/tracy_bannon
